@@ -1,0 +1,8 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="colorPrimary">@color/emerald_primary</item>
+        <item name="colorPrimaryDark">@color/emerald_primary_hover</item>
+        <item name="android:windowBackground">@color/bg_white</item>
+    </style>
+</resources>

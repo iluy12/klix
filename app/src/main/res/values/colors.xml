@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="emerald_primary">#0A7D5A</color>
+    <color name="emerald_primary_hover">#0C6A4E</color>
+    <color name="bg_white">#FFFFFF</color>
+    <color name="text_primary">#1D1D1F</color>
+    <color name="text_secondary">#48484A</color>
+    <color name="danger">#B3261E</color>
+</resources>
